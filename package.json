@@ -1,0 +1,29 @@
+{
+  "name": "lawn-tennis-scoreboard",
+  "description": "Lawn Tennis Game Scoring Board using Typescript.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.14.7",
+    "@babel/plugin-syntax-bigint": "^7.8.3",
+    "@babel/preset-env": "^7.14.9",
+    "@babel/preset-typescript": "^7.14.5",
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.4.10",
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "@typescript-eslint/parser": "^4.28.5",
+    "babel-jest": "^27.0.6",
+    "core-js": "^3.16.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.23.4",
+    "jest": "^27.0.6",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+  }
+}
